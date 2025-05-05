@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="Duyên Nợ" tvg-logo="https://i.imgur.com/au8fFgH.jpeg",Tập 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.phimdinhcao.media/
 https://www.motchill80.com/pmm2/d834a5b187898cf822f53b0072c6ab6b.m3u8
 #EXTINF:-1 group-title="Duyên Nợ" tvg-logo="https://i.imgur.com/au8fFgH.jpeg",Tập 2
 http://bentre5.hoangai.vn:3333/get_media_link?path=https://www.phimdinhcao.media/phim/duyen-no/tap-2&extension=token=&n=1&request=1&location=yes
