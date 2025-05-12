@@ -1,82 +1,44 @@
 #EXTM3U
 #EXTINF:-1 group-title="Duyên Nợ" tvg-logo="https://i.imgur.com/au8fFgH.jpeg",Tập 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.phimdinhcao.media/
-https://www.motchill80.com/pmm2/d834a5b187898cf822f53b0072c6ab6b.m3u8
+http://khaitv.giize.com:3333/get_media_link?path=https://www.phimdinhcao.media/phim/duyen-no/tap-1&extension=m3u8&location=yes
 #EXTINF:-1 group-title="Duyên Nợ" tvg-logo="https://i.imgur.com/au8fFgH.jpeg",Tập 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.phimdinhcao.media/
-https://www.motchill80.com/pmm2/6618de48a5224fc70335e49fb53c4e3f.m3u8
+http://khaitv.giize.com:3333/get_media_link?path=https://www.phimdinhcao.media/phim/duyen-no/tap-2&extension=m3u8&location=yes
 #EXTINF:-1 group-title="Duyên Nợ" tvg-logo="https://i.imgur.com/au8fFgH.jpeg",Tập 3
 http://khaitv.giize.com:3333/get_media_link?path=https://www.phimdinhcao.media/phim/duyen-no/tap-3&extension=m3u8&location=yes
 #EXTINF:-1 group-title="Duyên Nợ" tvg-logo="https://i.imgur.com/au8fFgH.jpeg",Tập 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.phimdinhcao.media/
-https://www.motchill80.com/pmm2/580fe4d2fc0b2ed39cacff974161f91a.m3u8
+http://khaitv.giize.com:3333/get_media_link?path=https://www.phimdinhcao.media/phim/duyen-no/tap-4&extension=m3u8&location=yes
 #EXTINF:-1 group-title="Duyên Nợ" tvg-logo="https://i.imgur.com/au8fFgH.jpeg",Tập 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.phimdinhcao.media/
-https://www.motchill80.com/pmm2/dbdaa2bac8a2f07339292b30f3f77913.m3u8
+http://khaitv.giize.com:3333/get_media_link?path=https://www.phimdinhcao.media/phim/duyen-no/tap-5&extension=m3u8&location=yes
 #EXTINF:-1 group-title="Duyên Nợ" tvg-logo="https://i.imgur.com/au8fFgH.jpeg",Tập 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.phimdinhcao.media/
-https://www.motchill80.com/pmm2/f22889fc17e1e91e2844992e9275b557.m3u8
+http://khaitv.giize.com:3333/get_media_link?path=https://www.phimdinhcao.media/phim/duyen-no/tap-6&extension=m3u8&location=yes
 #EXTINF:-1 group-title="Duyên Nợ" tvg-logo="https://i.imgur.com/au8fFgH.jpeg",Tập 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.phimdinhcao.media/
-https://www.motchill80.com/pmm2/bf8c9ae6526406af192e97017bfe64a5.m3u8
+http://khaitv.giize.com:3333/get_media_link?path=https://www.phimdinhcao.media/phim/duyen-no/tap-7&extension=m3u8&location=yes
 #EXTINF:-1 group-title="Duyên Nợ" tvg-logo="https://i.imgur.com/au8fFgH.jpeg",Tập 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.phimdinhcao.media/
-https://www.motchill80.com/pmm2/2cb358fff8968a6ced1d959e97efac73.m3u8
+http://khaitv.giize.com:3333/get_media_link?path=https://www.phimdinhcao.media/phim/duyen-no/tap-8&extension=m3u8&location=yes
 #EXTINF:-1 group-title="Duyên Nợ" tvg-logo="https://i.imgur.com/au8fFgH.jpeg",Tập 9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.phimdinhcao.media/
-https://www.motchill80.com/pmm2/7bc0bd8a757feb81888b424bc3b867ec.m3u8
+http://khaitv.giize.com:3333/get_media_link?path=https://www.phimdinhcao.media/phim/duyen-no/tap-9&extension=m3u8&location=yes
 #EXTINF:-1 group-title="Duyên Nợ" tvg-logo="https://i.imgur.com/au8fFgH.jpeg",Tập 10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.phimdinhcao.media/
-https://www.motchill80.com/pmm2/2948b3230870f586d1439699437c33ca.m3u8
+http://khaitv.giize.com:3333/get_media_link?path=https://www.phimdinhcao.media/phim/duyen-no/tap-10&extension=m3u8&location=yes
 #EXTINF:-1 group-title="Duyên Nợ" tvg-logo="https://i.imgur.com/au8fFgH.jpeg",Tập 11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.phimdinhcao.media/
-https://www.motchill80.com/pmm2/838ae0edc099fe79dbf62fceaffd5269.m3u8
+http://khaitv.giize.com:3333/get_media_link?path=https://www.phimdinhcao.media/phim/duyen-no/tap-11&extension=m3u8&location=yes
 #EXTINF:-1 group-title="Duyên Nợ" tvg-logo="https://i.imgur.com/au8fFgH.jpeg",Tập 12
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.phimdinhcao.media/
-https://www.motchill80.com/pmm2/f4cf9d1acf46afae162493eaa0e7ec23.m3u8
+http://khaitv.giize.com:3333/get_media_link?path=https://www.phimdinhcao.media/phim/duyen-no/tap-12&extension=m3u8&location=yes
 #EXTINF:-1 group-title="Duyên Nợ" tvg-logo="https://i.imgur.com/au8fFgH.jpeg",Tập 13
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.phimdinhcao.media/
-https://www.motchill80.com/pmm2/807d605bad8c82b15aa8ea6d13db2e04.m3u8
+http://khaitv.giize.com:3333/get_media_link?path=https://www.phimdinhcao.media/phim/duyen-no/tap-13&extension=m3u8&location=yes
 #EXTINF:-1 group-title="Duyên Nợ" tvg-logo="https://i.imgur.com/au8fFgH.jpeg",Tập 14
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.phimdinhcao.media/
-https://www.motchill80.com/pmm2/24bcee0a34a6393de368f5360938e83e.m3u8
+http://khaitv.giize.com:3333/get_media_link?path=https://www.phimdinhcao.media/phim/duyen-no/tap-14&extension=m3u8&location=yes
 #EXTINF:-1 group-title="Duyên Nợ" tvg-logo="https://i.imgur.com/au8fFgH.jpeg",Tập 15
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.phimdinhcao.media/
-https://www.motchill80.com/pmm2/8ff8a8f04ae23251fdbe389b4f19c7af.m3u8
+http://khaitv.giize.com:3333/get_media_link?path=https://www.phimdinhcao.media/phim/duyen-no/tap-15&extension=m3u8&location=yes
 #EXTINF:-1 group-title="Duyên Nợ" tvg-logo="https://i.imgur.com/au8fFgH.jpeg",Tập 16
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.phimdinhcao.media/
-https://www.motchill80.com/pmm2/481f68964eeae5235a027fa8788ca7b5.m3u8
+http://khaitv.giize.com:3333/get_media_link?path=https://www.phimdinhcao.media/phim/duyen-no/tap-16&extension=m3u8&location=yes
 #EXTINF:-1 group-title="Duyên Nợ" tvg-logo="https://i.imgur.com/au8fFgH.jpeg",Tập 17
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.phimdinhcao.media/
-https://www.motchill80.com/pmm2/e9491bc06802a71baa9899b4c2c171e1.m3u8
+http://khaitv.giize.com:3333/get_media_link?path=https://www.phimdinhcao.media/phim/duyen-no/tap-17&extension=m3u8&location=yes
 #EXTINF:-1 group-title="Duyên Nợ" tvg-logo="https://i.imgur.com/au8fFgH.jpeg",Tập 18
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.phimdinhcao.media/
-https://www.motchill80.com/pmm2/45f5f001878491220ed2ce9a479100f8.m3u8
+http://khaitv.giize.com:3333/get_media_link?path=https://www.phimdinhcao.media/phim/duyen-no/tap-18&extension=m3u8&location=yes
 #EXTINF:-1 group-title="Duyên Nợ" tvg-logo="https://i.imgur.com/au8fFgH.jpeg",Tập 19
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.phimdinhcao.media/
-https://www.motchill80.com/pmm2/e93d088f31334df88e3e7d8e86886f2b.m3u8
+http://khaitv.giize.com:3333/get_media_link?path=https://www.phimdinhcao.media/phim/duyen-no/tap-19&extension=m3u8&location=yes
 #EXTINF:-1 group-title="Duyên Nợ" tvg-logo="https://i.imgur.com/au8fFgH.jpeg",Tập 20
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.phimdinhcao.media/
-https://www.motchill80.com/pmm2/bd1aa0532ef74874820ef9bc8ac8b60c.m3u8
+http://khaitv.giize.com:3333/get_media_link?path=https://www.phimdinhcao.media/phim/duyen-no/tap-20&extension=m3u8&location=yes
 
 # Item: Hán Sở Kiêu Hùng, Type: series, Episode: Hoàn Tất (30/30)
 #EXTINF:-1 group-title="Hán Sở Kiêu Hùng" tvg-logo="https://phimimg.com/upload/vod/20241028-1/708a2a12f35f7eea11e0cb33f5b4bc93.jpg",Tập 1
