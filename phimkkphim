@@ -8,9 +8,7 @@ https://www.motchill80.com/pmm2/d834a5b187898cf822f53b0072c6ab6b.m3u8
 #EXTVLCOPT:http-referrer=https://www.phimdinhcao.media/
 https://www.motchill80.com/pmm2/6618de48a5224fc70335e49fb53c4e3f.m3u8
 #EXTINF:-1 group-title="Duyên Nợ" tvg-logo="https://i.imgur.com/au8fFgH.jpeg",Tập 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.phimdinhcao.media/
-https://www.motchill80.com/pmm2/39f87cb387ba18b8f5b8d535ade30aec.m3u8
+http://khaitv.giize.com:3333/get_media_link?path=https://www.phimdinhcao.media/phim/duyen-no/tap-3&extension=m3u8&location=yes
 #EXTINF:-1 group-title="Duyên Nợ" tvg-logo="https://i.imgur.com/au8fFgH.jpeg",Tập 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.phimdinhcao.media/
